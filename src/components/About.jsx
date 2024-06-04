@@ -8,11 +8,12 @@ const About = () => {
                <p className="text-4xl font-bold inline border-b-4 border-gray-500 ">About</p>
             </div>
             <p className="text-2xl mt-20">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora dignissimos eum nostrum nobis explicabo minima modi sint. Ullam eos molestiae perferendis. At soluta amet doloribus ipsa nihil harum dolores saepe! Ut quos ab sed maiores, eum officiis veniam architecto nemo? Itaque dicta culpa placeat sequi, repellat velit nostrum mollitia nisi.
+                Hey! I'm Divyesh on this side a Senior student who is passionate about and always thriving to learn new technologies and keen towards problem solving. Currently pursuing Bachelor's degree in Computer Science and Engineering at SRM University Andhra Pradesh. I have a Strong foundation in programming languages like C/C++, Python, HTML, JAVA, JavaScript. 
             </p>
             <br />
             <p className="text-2xl">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa ipsam beatae, labore vel ullam distinctio laudantium exercitationem aliquam. Provident optio repellendus ab suscipit, nesciunt delectus odio numquam. Aut nulla perspiciatis vitae non laudantium, accusamus id iure officiis suscipit assumenda repellat molestias! Tempora repudiandae labore recusandae placeat aperiam similique facilis quos!
+               I enjoy Staying updated with emerging technologies especially in the feild of Artificial Intelligence and Machine Learning and struve to push past the imaginative boundaries and find creative solutions to complex and robust challenges.
+               My Primary aim is to leverage my skillset in software development and contribute to innovative project.
             </p>
         </div>
     </div>
