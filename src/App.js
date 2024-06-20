@@ -6,7 +6,9 @@ import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
+import Certificate from "./components/Certificate"
 import { Helmet } from "react-helmet";
+
 
 
 function App() {
@@ -20,6 +22,7 @@ function App() {
       <Home />
       <About />
       <Portfolio />
+      <Certificate />
       <Experience />
       <Contact />
 

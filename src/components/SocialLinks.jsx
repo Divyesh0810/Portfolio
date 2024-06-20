@@ -15,7 +15,6 @@ const SocialLinks = () => {
             href: 'https://www.linkedin.com/in/divyesh-reddy-e-a9b9b3222/',
             style: 'rounded-tr-md'
         },
-
         {
             id:2,
             child: (
@@ -25,7 +24,6 @@ const SocialLinks = () => {
             ),
             href: 'https://github.com/divyesh0810',
         },
-
         {
             id:3,
             child: (
@@ -35,7 +33,6 @@ const SocialLinks = () => {
             ),
             href: 'mailto:divyeshreddy2003@gmail.com',
         },
-
         {
             id:4,
             child: (
