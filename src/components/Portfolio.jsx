@@ -2,6 +2,9 @@ import React from 'react';
 import sentimentanalysis from "../assets/sentimentanalysis.jpeg";
 import aqi from "../assets/aqi.jpeg";
 import ailab from "../assets/ailab.jpeg";
+import XOR from "../assets/XOR.png";
+import metro from "../assets/metro.png";
+import bbtcms from "../assets/bbtcms.png";
 
 const Portfolio = () => {
   const port = [
@@ -29,6 +32,30 @@ const Portfolio = () => {
       href: 'https://github.com/Divyesh0810/Sentiment-Analysis-of-product-based-reviews-using-transformers',
       description: "A sentiment analysis model built using transformers to classify product reviews as positive or negative.",
       technologies: ["Python", "HuggingFace Transformers", "BERT", "TensorFlow"]
+    },
+    {
+      id: 4,
+      src: XOR,
+      title: "XOR Calculator",
+      href: 'https://github.com/Divyesh0810/CN-Project',
+      description: "A Simple GUI based JAVA project that XOR, OR and the Hamming distance Calculations on Binary Digits",
+      technologies: ["JAVA", "GUI", "Binary","Computer Networks"]
+    },
+    {
+      id: 5,
+      src: metro,
+      title: "Delhi metro route optimization",
+      href: 'https://github.com/Divyesh0810/Delhi-Metro-Route-Optimisation',
+      description: "Delhi Metro route optimization with data analysis and visualization ",
+      technologies: ["Python", "Colab", "Data Analysis", "Data Visualization"]
+    },
+    {
+      id: 6,
+      src: bbtcms,
+      title: "Tender Chain - BlockChain based tender contract management",
+      href: 'https://github.com/JithinPonduru/TenderChain',
+      description: "TenderChain A comprehensive and collaborative project based on Solidity and Sepholia Test Network  ",
+      technologies: ["Web Dev", "BlockChain", "Tender Contract", "Collaboration"]
     },
   ];
 

@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+#babel issue
+/@babel/plugin-proposal-private-property-in-object
 # testing
 /coverage
 
